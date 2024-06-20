@@ -18,9 +18,11 @@ A simple to-do app built with Flutter.
    cd my_todo_app
 2. **Fetch the dependencies:**
 
+   ```sh
    flutter pub get
 
 3. **Run the App:**
 
+   ```sh
    flutter run
 
