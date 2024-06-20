@@ -1,16 +1,26 @@
-# to_do_app
+# My ToDo App
 
-A new Flutter project.
+A simple to-do app built with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- A code editor (VS Code, Android Studio, or IntelliJ IDEA recommended)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/YanFeitosa/To_Do_App.git
+   cd my_todo_app
+2. **Fetch the dependencies:**
+
+   flutter pub get
+
+3. **Run the App:**
+
+   flutter run
+
